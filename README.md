@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Go to azure.portal.com and create a new virtual machine (VM). 
 - Select Windows 10 22H2 as your image and a VM size of at least 4vcpus to ensure speedy processing.
 
-   <img height = "30%" width="30%" alt="VM Creation 2" src="https://github.com/s-evelyn/osticket-prereq/assets/53543374/7f796c42-237f-4775-9390-de4da8777a00">
+   <img height = "30%" width="30%" alt="VM Creation 2" src="https://github.com/cesarcsaenz/osticket-prereqs/assets/153584649/77c8f14b-eec6-4b57-94c1-401135c1172c">
 
 <br />
 
