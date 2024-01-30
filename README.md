@@ -312,5 +312,5 @@ You can also clean up now by:
 
 <br>
 
-Congratulations you have successfully installed osTicket on your Virtual Machine, Continue to the [osTicket: Post-Installation Configuration Tutorial](https://github.com/s-evelyn/osTicket-PostInstallConfig) 
+Congratulations you have successfully installed osTicket on your Virtual Machine, Continue to the [https://github.com/cesar-c-saenz/post-install-config
 
